@@ -8,7 +8,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utilarium/overcontext.git"
+    "url": "git+https://github.com/tobrien/overcontext.git"
   },
   "exports": {
     ".": {
@@ -51,7 +51,7 @@
   ],
   "author": "Tim O'Brien <tobrien@discursive.com>",
   "license": "Apache-2.0",
-  "homepage": "https://utilarium.github.io/overcontext/",
+  "homepage": "https://tobrien.github.io/overcontext/",
   "engines": {
     "node": ">=24.0.0"
   },

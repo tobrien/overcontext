@@ -255,7 +255,7 @@ const entity = await cli.get({
 - [Namespaces](./guide/namespaces.md)
 - [Building a CLI](./guide/building-cli.md)
 
-Full documentation: [https://utilarium.github.io/overcontext/](https://utilarium.github.io/overcontext/)
+Full documentation: [https://tobrien.github.io/overcontext/](https://tobrien.github.io/overcontext/)
 
 ## Example: Personal Knowledge Management
 
@@ -308,7 +308,7 @@ await ctx.create('project', {
   name: 'Overcontext',
   status: 'active',
   owner: 'alice-johnson',
-  repository: 'https://github.com/utilarium/overcontext',
+  repository: 'https://github.com/tobrien/overcontext',
 });
 
 await ctx.create('term', {
